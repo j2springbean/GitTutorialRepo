@@ -4,6 +4,7 @@ public class Student {
 
 	public String studentName;
 	public String studentNumber;
+	public String studentRoomTeacher;
 	
 	public String getStudentName() {
 		return studentName;
