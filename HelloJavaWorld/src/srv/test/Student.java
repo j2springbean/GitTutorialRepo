@@ -3,6 +3,7 @@ package srv.test;
 public class Student {
 
 	public String studentName;
+	public Integer studentNumber;
 
 	public String getStudentName() {
 		return studentName;
